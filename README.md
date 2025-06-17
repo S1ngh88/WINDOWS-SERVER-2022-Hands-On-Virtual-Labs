@@ -1,5 +1,4 @@
 # WINDOWS-SERVER-2022-Hands-On-Virtual-Labs
-# Windows Server 2022 Setup and Configuration
 
 This repository documents the installation, configuration, and management of a Windows Server 2022 environment, including Active Directory, DHCP, DNS, and other essential services.
 
