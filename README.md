@@ -13,6 +13,8 @@ This repository documents the installation, configuration, and management of a W
 - Ensured basic server security configurations.
 - Included scripts for automation of setup tasks.
 - Screenshots and architecture diagrams are provided in the `docs/` folder.
+- ![image](https://github.com/user-attachments/assets/9afd3ee4-c40a-461b-bf7a-443833147c25)
+
 
 ## How to Use
 
